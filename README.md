@@ -1,2 +1,2 @@
 # Differentwork
-'"Different works"'
+Different works
